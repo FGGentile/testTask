@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="34.959" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-03-26T16:36:03" tests="0" file="cypress\e2e\userFlow.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="User flow test" timestamp="2024-03-26T16:36:03" tests="1" time="34.947" failures="0">
+    <testcase name="should perform the user flow" time="34.883" classname="User flow test should perform the user flow">
+    </testcase>
+  </testsuite>
+</testsuites>
