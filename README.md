@@ -8,6 +8,7 @@ This repository contains automated end-to-end tests for an e-commerce website, c
 - [Running Tests](#running-tests)
 - [Test Plan and Strategy](#test-plan-and-strategy)
 - [Test Cases](#test-cases)
+- [Video](#video)
 
 ## Installation
 
@@ -73,6 +74,10 @@ Below is a summary of the test cases covered in this repository:
 | TC14         | Submit Inquiry via Contact Us                   | 1. Click on “Contact us”.<br>2. Fill required data and click on “Submit”.<br>3. Press “OK” in the pop-up.         | Inquiry is submitted and confirmation is received.                |
 | TC15         | Final Logout                                    | Click on the “Logout” button on the header.                                                                       | User is logged out, ending the session.                           |
 
+### Video
+
+
+https://github.com/FGGentile/testTask/assets/114667938/e366f9b8-d345-401f-8880-e8ff22dfcf77
 
 
 
